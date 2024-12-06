@@ -35,7 +35,7 @@ SQL Queries: Folder containing SQL scripts used to extract data.
 
 Ad-hoc-report.pbix: Folder containing Power BI files with data visualizations.
 
-ATLIQ HARDWARES.pptx: PowerPoint file showcasing insights and recommendations.
+ATLIQ HARDWARES.pptx: PowerPoint file showcasing insights.
 
 How to Use
 
