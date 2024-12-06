@@ -33,9 +33,9 @@ ad-hoc-requests.pdf: Document containing the 10 ad hoc business requests.
 
 SQL Queries: Folder containing SQL scripts used to extract data.
 
-ad-hoc-report: Folder containing Power BI files with data visualizations.
+Ad-hoc-report.pbix: Folder containing Power BI files with data visualizations.
 
-ATLIQ HARDWARES: PowerPoint file showcasing insights and recommendations.
+ATLIQ HARDWARES.pptx: PowerPoint file showcasing insights and recommendations.
 
 How to Use
 
