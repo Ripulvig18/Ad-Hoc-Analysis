@@ -30,10 +30,15 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 # Files in this Repository
 ad-hoc-requests.pdf: Document containing the 10 ad hoc business requests.
+
 SQL Queries: Folder containing SQL scripts used to extract data.
-Power BI Visualizations: Folder containing Power BI files with data visualizations.
-Presentation: PowerPoint file showcasing insights and recommendations.
+
+ad-hoc-report: Folder containing Power BI files with data visualizations.
+
+ATLIQ HARDWARES: PowerPoint file showcasing insights and recommendations.
+
 How to Use
+
 SQL Queries:
 
 Navigate to the SQL Queries folder.
