@@ -44,4 +44,5 @@ Open the Power BI files in Power BI Desktop to view the visualizations.
 Presentation:
 
 Open the PowerPoint file to view the presentation designed for top-level management.
+
 This project is a demonstration of my skills in data analysis, SQL querying, data visualization, and presentation design in a business context. It showcases my ability to derive and communicate actionable insights from data, which is crucial for data-driven decision-making in a corporate environment.
